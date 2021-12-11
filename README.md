@@ -6,7 +6,7 @@ The code is also available at (the site)[https://www.kaggle.com/alafun/for-the-h
 
 The result is below
 
-![](https://github.com/alafun01/DataAnalysisForGameUsage/blob/main/Pie-chart.png) 
+![](Pie-chart.png) 
 
 ![](line-chart.png)
 
