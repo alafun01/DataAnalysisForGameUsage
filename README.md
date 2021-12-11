@@ -5,6 +5,6 @@ The code is also available at (the site)[https://www.kaggle.com/alafun/for-the-h
 
 
 The result is below
-!()[line-chart.png] !()[Pie-chart.png]
+!()[../line-chart.png] !()[../Pie-chart.png]
 
 By the way, when I choose the coloring scheme, (this website)[https://brandcolors.net/] help me a lot.
